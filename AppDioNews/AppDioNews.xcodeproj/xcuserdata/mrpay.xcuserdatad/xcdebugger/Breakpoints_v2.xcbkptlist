@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BF394103-A043-48A9-A6FB-42884C57EC10"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D92C898-C7B3-4612-AD7E-76421EE3E90D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppDioNews/DataProvider/Repository/NewsRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "getNewsList(completation:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8D92C898-C7B3-4612-AD7E-76421EE3E90D - 7b1c4996e1115576"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppDioNews.NewsRepository.getNewsList(completation: (Swift.Optional&lt;Swift.Array&lt;AppDioNews.NewsModel&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AppDioNews"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mrpay/workspace/study/Ios-swift/AppDioNews/AppDioNews/DataProvider/Repository/NewsRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "8D92C898-C7B3-4612-AD7E-76421EE3E90D - 7b1c4996e1115576"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppDioNews.NewsRepository.getNewsList(completation: (Swift.Optional&lt;Swift.Array&lt;AppDioNews.NewsModel&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AppDioNews"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mrpay/workspace/study/Ios-swift/AppDioNews/AppDioNews/DataProvider/Repository/NewsRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "700">
+               </Location>
+               <Location
+                  uuid = "8D92C898-C7B3-4612-AD7E-76421EE3E90D - 7b1c4996e1115576"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppDioNews.NewsRepository.getNewsList(completation: (Swift.Optional&lt;Swift.Array&lt;AppDioNews.NewsModel&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AppDioNews"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mrpay/workspace/study/Ios-swift/AppDioNews/AppDioNews/DataProvider/Repository/NewsRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "8D92C898-C7B3-4612-AD7E-76421EE3E90D - 7b1c4996e1115576"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppDioNews.NewsRepository.getNewsList(completation: (Swift.Optional&lt;Swift.Array&lt;AppDioNews.NewsModel&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AppDioNews"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mrpay/workspace/study/Ios-swift/AppDioNews/AppDioNews/DataProvider/Repository/NewsRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "744">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
